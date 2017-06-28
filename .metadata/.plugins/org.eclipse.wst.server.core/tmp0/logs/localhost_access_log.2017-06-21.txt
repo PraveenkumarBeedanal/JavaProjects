@@ -1,0 +1,6 @@
+127.0.0.1 - - [21/Jun/2017:22:28:12 +0200] "GET / HTTP/1.1" 404 1078
+0:0:0:0:0:0:0:1 - - [21/Jun/2017:22:28:36 +0200] "GET /liveweb/index.jsp HTTP/1.1" 200 77
+0:0:0:0:0:0:0:1 - - [21/Jun/2017:22:28:37 +0200] "GET /favicon.ico HTTP/1.1" 404 1089
+0:0:0:0:0:0:0:1 - - [21/Jun/2017:22:28:48 +0200] "GET /liveweb/feedback.htm HTTP/1.1" 200 14443
+0:0:0:0:0:0:0:1 - - [21/Jun/2017:22:29:35 +0200] "GET /liveweb/addFeedback?name=Praveenkumr&email=praveenkumarbeedanal%40gmail.com&reg=online&code=104&msg=dnmsds&rating=4 HTTP/1.1" 404 1055
+0:0:0:0:0:0:0:1 - - [21/Jun/2017:23:10:59 +0200] "GET /liveweb/feedback.htm HTTP/1.1" 200 14443

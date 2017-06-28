@@ -1,0 +1,5 @@
+package com.praveen.liveproject.entity;
+
+public class Feedback {
+
+}

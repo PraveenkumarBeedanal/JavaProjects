@@ -1,0 +1,5 @@
+package com.praveen.liveproject.dao;
+
+public class FeedbackDao {
+
+}

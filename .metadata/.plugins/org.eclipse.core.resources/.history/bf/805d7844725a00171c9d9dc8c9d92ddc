@@ -1,0 +1,17 @@
+package com.praveen.liveproject.dao;
+
+import org.springframework.stereotype.Repository;
+
+import com.praveen.liveproject.entity.Feedback;
+
+@Repository
+public class FeedbackDao 
+{
+
+	public void addfeedback(Feedback feedback)
+	{
+		System.out.println("the data is " + feedback);
+		
+	}
+	
+}
